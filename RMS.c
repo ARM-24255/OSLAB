@@ -38,7 +38,7 @@ int main()
             maxPeriod = t[i].period;
     }
 
-    printf("\n===== Rate Monotonic Scheduling =====\n\n");
+    printf("\nRate Monotonic Scheduling\n");
 
     printf("Step\tTime Interval\tRunning\n");
 
